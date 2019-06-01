@@ -7,26 +7,26 @@
     {
         "id":1,
         "title":"React",
-        "description":"Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included."
+        "description":"React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies."
     },
     {
         "id":2,
         "title":"Redux",
-        "description":"Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included."
+        "description":"Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test."
     },
     {
         "id":3,
         "title":"Flutter",
-        "description":"Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included."
+        "description":"Flutter is an open-source mobile application development framework created by Google. It is used to develop applications for Android and iOS, as well as being the primary method of creating applications for Google Fuchsia."
     },
     {
         "id":4,
         "title":"Android",
-        "description":"Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included."
+        "description":"Android is a mobile operating system developed by Google. It is based on a modified version of the Linux kernel and other open source software, and is designed primarily for touchscreen mobile devices such as smartphones and tablets."
     },
     {
         "id":5,
         "title":"Ios",
-        "description":"Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included."
+        "description":"iOS is a mobile operating system created and developed by Apple Inc. exclusively for its hardware. It is the operating system that presently powers many of the company's mobile devices, including the iPhone, iPad, and iPod Touch. It is the second most popular mobile operating system globally after Android."
     }
 ]
